@@ -36,4 +36,5 @@ module.exports = {
   secretOrKey: 'YOUR_OWN_SECRET'
 };
 ```
+![Annotation 2020-08-08 140529](https://user-images.githubusercontent.com/42699221/89706205-171ce680-d981-11ea-80c4-51a84a2c1891.png)
 
