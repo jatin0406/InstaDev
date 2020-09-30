@@ -1,7 +1,7 @@
 # DEV-CONNECTOR
 
 This is developer platform, In which developer can connect to each other.This is a small social network app that includes authentication, profiles and forum posts.
-### How to get it up and running
+### Steps to run 
 
 First go ahead and clone this repository either by downloading the .ZIP file or by entering `https://github.com/petercr/dev-connector.git` into your terminal.
 
